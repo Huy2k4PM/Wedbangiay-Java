@@ -5,7 +5,7 @@
     <img src="https://i.imgur.com/2HHOsgr.png" alt=" ">
   </a>
 </p>
-<h2 align="center"><b> Trường Đại học Giao Thông Vận Tải TPHCM <br>  University of Transport Ho Chi Minh City</b></h2>
+<h1 align="center"><b> Trường Đại học Giao Thông Vận Tải TPHCM <br>  University of Transport Ho Chi Minh City</b></h1>
 <h1 align="center"><b> Hoc phần:Lập trình Java</b></h1>
 
 # Thành viên nhóm
