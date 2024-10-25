@@ -9,12 +9,12 @@
 <h1 align="center"><b> Hoc phần:Lập trình Java</b></h1>
 
 # Thành viên nhóm
-| STT    | MSSV          | Họ và Tên              |Chức Vụ    | Github                                                  | Email                   |
-| ------ |:-------------:| ----------------------:|----------:|--------------------------------------------------------:|-------------------------:
-| 1      |  2251120159   | Nguyễn Thanh Huy       |Nhóm trưởng| [Huy2K4PM](https://github.com/Huy2k4PM)                 | thanhhuypm77@gmail.com  |             
-| 2      |  2251120180   | Giáp Hồng Quân         |Thành viên | [Giap-Hong-Quan](https://github.com/Giap-Hong-Quan)     |         |
-| 3      |  2251120135   | Nguyễn Quốc Bảo        |Thành viên | [BaoBao-39](https://github.com/BaoBao-39)               |      |
-
+| STT    | MSSV          | Họ và Tên              |Chức Vụ    | Nhiệm vụ                                                
+| ------ |:-------------:| ----------------------:|----------:|--------------------------------------------------------:
+| 1      |  2251120159   | Nguyễn Thanh Huy       |Nhóm trưởng|Thực hiện xử lý logic, request của client,<br> thiết kế database, thực hiện thao tác các chức năng, kiểm thử.
+| 2      |  2251120180   | Giáp Hồng Quân         |Thành viên |Thực hiện thiết kế layout, giao diện các trang chức năng.                                                         
+| 3      |  2251120135   | Nguyễn Quốc Bảo        |Thành viên |Thực hiện thiết kế use case, phân tích sơ đồ thiết kế hệ thống.                                                         
+ 
 
 # GIỚI THIỆU MÔN HỌC
 * **Tên môn học:**  Lập trình Java
