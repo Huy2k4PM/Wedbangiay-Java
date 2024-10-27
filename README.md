@@ -5,16 +5,16 @@
     <img src="https://i.imgur.com/2HHOsgr.png" alt=" ">
   </a>
 </p>
-<h2 align="center"><b> Trường Đại học Giao Thông Vận Tải TPHCM <br>  University of Transport Ho Chi Minh City</b></h2>
-<h1 align="center"><b> HỌC PHẦN:Lập trình Java</b></h1>
+<h1 align="center"><b> Trường Đại học Giao Thông Vận Tải TPHCM <br>  University of Transport Ho Chi Minh City</b></h1>
+<h1 align="center"><b> Hoc phần:Lập trình Java</b></h1>
 
 # Thành viên nhóm
-| STT    | MSSV          | Họ và Tên              |Chức Vụ    | Github                                                  | Email                   |
-| ------ |:-------------:| ----------------------:|----------:|--------------------------------------------------------:|-------------------------:
-| 1      |  2251120159   | Nguyễn Thanh Huy       |Nhóm trưởng| [Huy2K4PM](https://github.com/Huy2k4PM)                 | thanhhuypm77@gmail.com  |             
-| 2      |  2251120180   | Giáp Hồng Quân         |Thành viên | [Giap-Hong-Quan](https://github.com/Giap-Hong-Quan)     |      |
-| 3      |  2251120135   | Nguyễn Quốc Bảo        |Thành viên | [](https://github.com/bao77)                       |      |
-
+| STT    | MSSV          | Họ và Tên              |Chức Vụ    | Nhiệm vụ                                                
+| ------ |:-------------:| ----------------------:|----------:|--------------------------------------------------------:
+| 1      |  2251120159   | Nguyễn Thanh Huy       |Nhóm trưởng|Thực hiện xử lý logic, request của client,<br> thiết kế database, thực hiện thao tác các chức năng, kiểm thử.
+| 2      |  2251120180   | Giáp Hồng Quân         |Thành viên |Thực hiện thiết kế layout, giao diện các trang chức năng.                                                         
+| 3      |  2251120135   | Nguyễn Quốc Bảo        |Thành viên |Thực hiện thiết kế use case, phân tích sơ đồ thiết kế hệ thống.                                                         
+ 
 
 # GIỚI THIỆU MÔN HỌC
 * **Tên môn học:**  Lập trình Java
