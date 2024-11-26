@@ -1,4 +1,4 @@
-
+![image](https://github.com/user-attachments/assets/24362828-b832-49a8-82a1-4170e0ca8311)
 <!-- Banner -->
 <p align="center">
   <a href="https://ut.edu.vn/" title="Trường Đại học Giao Thông Vận Tải TPHCM" style="border: none;">
@@ -23,8 +23,16 @@
 
 # Báo cáo
 * **Đề tài:** Wedsite bán giày online
+* **Mô tả:**
+* Dự án này giới thiệu một website bán giày trực tuyến được xây dựng theo mô hình MVC bằng Java, sử dụng Servlet, JSP, và JDBC. Ứng dụng này cung cấp một hệ thống quản lý sản phẩm, giỏ hàng và thanh toán, cho phép người dùng dễ dàng tìm kiếm, chọn mua giày và thực hiện thanh toán trực tuyến qua giao diện web
 * **Công nghệ được sử dụng:** JSP VERVLET
 *  **Cài đặt:**
+   + IDE: Eclipse
+   + Database: MSSQL
+   + Backend: Java , Apache Tomcat, Servlet, JSP, JDBC, MVC, MAVEN
 * **Cải tiến trong tương lai**
+* Sử dụng các framework frontend hiện đại như Bootstrap để cải thiện trải nghiệm người dùng, đồng thời đảm bảo giao diện responsive.
+* Tạo API RESTful để dễ dàng tích hợp với các ứng dụng mobile hoặc bên thứ ba.
+* Hỗ trợ các cổng thanh toán như PayPal, Stripe hoặc Momo để nâng cao tính tiện lợi.
 <!-- Footer -->
 <p align='center'>Copyright © 2024 - Nguyễn Thanh Huy</p>
